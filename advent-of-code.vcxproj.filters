@@ -21,13 +21,20 @@
     <ClCompile Include="src\day1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\day2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header-files\day1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="header-files\day2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt" />
+    <Text Include="resources\input2.txt" />
   </ItemGroup>
 </Project>

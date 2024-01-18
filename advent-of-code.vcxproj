@@ -131,12 +131,15 @@
   <ItemGroup>
     <ClCompile Include="src\day1.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\day2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header-files\day1.h" />
+    <ClInclude Include="header-files\day2.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1.txt" />
+    <Text Include="resources\input2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

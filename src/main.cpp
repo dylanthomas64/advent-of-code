@@ -1,4 +1,4 @@
-#include "day1.h"
+#include "day2.h"
 #include <string>
 #include <iostream>
 
@@ -6,5 +6,5 @@
 
 
 int main() {
-	std::cout << "The total is: " << day1() << std::endl;
+	std::cout << "The answer is: " << sum_of_possible_games() << std::endl;
 }
