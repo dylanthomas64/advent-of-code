@@ -6,5 +6,5 @@
 
 
 int main() {
-	std::cout << "The answer is: " << sum_of_possible_games() << std::endl;
+	std::cout << "The total is: " << sum_of_possible_games() << std::endl;
 }
